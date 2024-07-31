@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning pandas, mongoDB and airflow
 - ⚡ In my free time, I solve problems on LeetCode and Codewars
-- 💬 Know about my experience [**CV**]()
+- 💬 Know about my experience [**CV**](https://docs.google.com/document/d/1gJY6brXLQfd4gKO2K-StuMsUUXxVONcFJSO6bnEOsnQ/edit?usp=sharing)
 - 📫 Reach me by [**Telegram**](https://t.me/vinturis), [**email**]<isa.bayramov.2903@mail.ru>
 ---  
 [![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)  
