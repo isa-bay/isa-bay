@@ -13,7 +13,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
 ---  
 Courses:
-- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
-- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
-- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
-- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
+- Курс Stepik [**"Поколение Python"**](https://t.me/vinturis)
+- Курс Stepik [**Python**](https://t.me/vinturis)"
+- Курс Stepik [**Python**](https://t.me/vinturis)"
+- Курс karpov.courses [**"Симулятор SQL"**](https://karpov.courses/simulator-sql?_gl=1*27n03s*_ga*MTM4MDQ4MDA1Ni4xNzExNDk0MjYx*_ga_DZP7KEXCQQ*MTcyMjU5MjI4NS41OC4xLjE3MjI1OTI3ODUuNDguMC4w)
