@@ -10,5 +10,10 @@
 - 📫 Reach me by [**Telegram**](https://t.me/vinturis)
 ---  
 [![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)  
-  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
+---  
+Courses:
+- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
+- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
+- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
+- Курс Stepik "Поколение [**Python**](https://t.me/vinturis)"
