@@ -8,10 +8,10 @@
 - ⚡ В свое свободное время стараюсь решать задачки на Codewars и LeetCode
 - 💬 Узнать о моём опыте [**CV**](https://docs.google.com/document/d/1gJY6brXLQfd4gKO2K-StuMsUUXxVONcFJSO6bnEOsnQ/edit?usp=sharing)
 - 📫 Связаться со мной [**Telegram**](https://t.me/vinturis)
----
+
 [![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
----
+
 Courses:
 - Курс Stepik [**"Поколение Python"**](https://t.me/vinturis) (CERs)
 - Курс Stepik [**Python**](https://t.me/vinturis)" (CERs)
