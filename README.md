@@ -13,10 +13,10 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
 
 Courses:
-- Курс Stepik [**"Поколение Python"**](https://t.me/vinturis) (CERs)
-- Курс Stepik [**Python**](https://t.me/vinturis)" (CERs)
+- Курс Stepik [**"Поколение Python"**]([https://t.me/vinturis](https://stepik.org/course/58852/promo?search=4853530279) (CERs)
 - Курс Stepik [**Python**](https://t.me/vinturis)" (CERs)
 - Курс karpov.courses [**"Симулятор SQL"**](https://karpov.courses/simulator-sql?_gl=1*27n03s*_ga*MTM4MDQ4MDA1Ni4xNzExNDk0MjYx*_ga_DZP7KEXCQQ*MTcyMjU5MjI4NS41OC4xLjE3MjI1OTI3ODUuNDguMC4w)
 - Курс karpov.courses [**"Основы Python"**]
-- Курс karpov.courses [**"Docker"**] 
+- Курс karpov.courses [**"Docker"**]
+- Курс Stepik [**Data Engineer**](https://stepik.org/course/137235/promo?search=4853546789)" (CERs)
 - Курс Поступашки [**"Инженер данных"**]
