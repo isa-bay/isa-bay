@@ -13,9 +13,9 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
 
 Courses:
-- Курс Stepik [**"Поколение Python"**](https://stepik.org/course/68343/promo?search=4854919001) (CERs)
+- Курс Stepik [**"Поколение Python"**](https://stepik.org/course/68343/promo?search=4854919001)
 - Курс karpov.courses [**"Симулятор SQL"**](https://karpov.courses/simulator-sql?_gl=1*27n03s*_ga*MTM4MDQ4MDA1Ni4xNzExNDk0MjYx*_ga_DZP7KEXCQQ*MTcyMjU5MjI4NS41OC4xLjE3MjI1OTI3ODUuNDguMC4w)
-- Курс karpov.courses [**"Основы Python"**]
-- Курс karpov.courses [**"Docker"**]
-- Курс Stepik [**Data Engineer**](https://stepik.org/course/137235/promo?search=4853546789)" (CERs)
-- Курс Поступашки [**"Инженер данных"**]
+- Курс karpov.courses [**"Основы Python"**](https://karpov.courses/pythonzero?_gl=1*18vd29z*_ga*MTM4MDQ4MDA1Ni4xNzExNDk0MjYx*_ga_DZP7KEXCQQ*MTcyMjc5MzU1OS42NS4xLjE3MjI3OTM1NjEuNTguMC4w)
+- Курс karpov.courses [**"Docker"**](https://karpov.courses/docker?_gl=1*18j0krb*_ga*MTM4MDQ4MDA1Ni4xNzExNDk0MjYx*_ga_DZP7KEXCQQ*MTcyMjc5MzU1OS42NS4xLjE3MjI3OTM1NjguNTEuMC4w)
+- Курс Stepik [**Data Engineer**](https://stepik.org/course/137235/promo?search=4853546789)"
+- Курс Поступашки **"Инженер данных"**
