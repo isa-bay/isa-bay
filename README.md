@@ -6,7 +6,7 @@
 
 - 🌱 Сейчас я изучаю инструменты стэка Hadoop
 - ⚡ В свое свободное время стараюсь решать задачки на Codewars и LeetCode
-- 💬 Узнать о моём опыте [**CV**](https://docs.google.com/document/d/1gJY6brXLQfd4gKO2K-StuMsUUXxVONcFJSO6bnEOsnQ/edit?usp=sharing)
+- 💬 Узнать о моём опыте [**CV**](file:///C:/Users/isaba/Downloads/Isa%20Bayramov,%20Data%20Engineer.pdf)
 - 📫 Связаться со мной [**Telegram**](https://t.me/vinturis)
 
 [![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)  
