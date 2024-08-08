@@ -4,6 +4,7 @@
 <h2 align="center">Hi there, I'm Isa</h2>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=500&center=true&vCenter=true&random=false&width=280&height=25&lines=Data+Engineer+from+Moscow" alt="Typing SVG" /></a></h3>
 
+https://camo.githubusercontent.com/49209d28f85fe7b3ac549b7b486a8c6ba7731983ca1f5fe22aed79261d2b850e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3337373641423f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465
 - 🌱 Сейчас я изучаю инструменты стэка Hadoop
 - ⚡ В свое свободное время стараюсь решать задачки на Codewars и LeetCode
 - 💬 Узнать о моём опыте [**CV**](https://docs.google.com/document/d/1gJY6brXLQfd4gKO2K-StuMsUUXxVONcFJSO6bnEOsnQ/edit?usp=sharing)
