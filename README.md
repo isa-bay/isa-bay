@@ -10,11 +10,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-1E90FF?logo=github&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-1E90FF?logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-apacheairflow-1E90FF?logo=apacheairflow&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-1E90FF?logo=clickhouse&logoColor=white)
+![tableau](https://img.shields.io/badge/-tableau-1E90FF?logo=tableau&logoColor=white)
+![linux](https://img.shields.io/badge/-linux-1E90FF?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-1E90FF?logo=gnu-bash&logoColor=white)
 
 
