@@ -18,11 +18,10 @@
 
 
 - 🌱 Сейчас я изучаю инструменты экосистемы Hadoop и ClickHouse
-- ⚡ В свое свободное время стараюсь решать задачки на Codewars и LeetCode
+- ⚡ В свое свободное время стараюсь решать задачки на LeetCode
 - 💬 Узнать о моём опыте [**CV**](https://docs.google.com/document/d/1gJY6brXLQfd4gKO2K-StuMsUUXxVONcFJSO6bnEOsnQ/edit?usp=sharing)
 - 📫 Связаться со мной [**Telegram**](https://t.me/vinturis)
 
-[![codewars](https://www.codewars.com/users/Isa%20Bayramov/badges/small)](https://www.codewars.com/users/Isa%20Bayramov)  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
 
 <h2> Courses: </h2><br>
