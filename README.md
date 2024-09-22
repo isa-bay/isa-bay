@@ -4,8 +4,9 @@
 <h2 align="center">Hi there, I'm Isa</h2>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=18&duration=3000&pause=500&center=true&vCenter=true&random=false&width=280&height=25&lines=Data+Engineer+from+Moscow" alt="Typing SVG" /></a></h3>
 
-![Python](https://img.shields.io/badge/python-1E90FF?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1E90FF?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-1E90FF?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-1E90FF?logo=numpy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E90FF?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
