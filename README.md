@@ -20,6 +20,7 @@
 ![AirFlow](https://img.shields.io/badge/-AirFlow-1E90FF?logo=apacheairflow&logoColor=white)
 ![NiFi](https://img.shields.io/badge/-NiFi-1E90FF?logo=apachenifi&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-1E90FF?logo=apachehadoop&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-1E90FF?logo=apachekafka&logoColor=white)
 ![Superset](https://img.shields.io/badge/-Superset-1E90FF?logo=apachesuperset&logoColor=white)
 ![DataLens](https://img.shields.io/badge/-DataLens-1E90FF?logo=datalens&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-1E90FF?logo=linux&logoColor=white)
