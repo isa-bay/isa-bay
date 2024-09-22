@@ -8,6 +8,7 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-1E90FF?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-1E90FF?logo=numpy&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-1E90FF?logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-1E90FF?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E90FF?logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-1E90FF?logo=clickhouse&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?logo=docker&logoColor=white)
