@@ -7,6 +7,8 @@
 ![Python](https://img.shields.io/badge/Python-1E90FF?logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-1E90FF?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-1E90FF?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-1E90FF?logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-1E90FF?logo=seaborn&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-1E90FF?logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-1E90FF?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E90FF?logo=postgresql&logoColor=white)
