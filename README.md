@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-1E90FF?logo=github&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-Github-1E90FF?logo=github&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-1E90FF?logo=hadoop&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-1E90FF?logo=apachehadoop&logoColor=white)
 ![Superset](https://img.shields.io/badge/-Superset-1E90FF?logo=apachesuperset&logoColor=white)
 ![DataLens](https://img.shields.io/badge/-DataLens-1E90FF?logo=datalens&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-1E90FF?logo=linux&logoColor=white)
