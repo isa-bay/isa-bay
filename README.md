@@ -23,6 +23,7 @@
 ![Kafka](https://img.shields.io/badge/-Kafka-1E90FF?logo=apachekafka&logoColor=white)
 ![Superset](https://img.shields.io/badge/-Superset-1E90FF?logo=apachesuperset&logoColor=white)
 ![DataLens](https://img.shields.io/badge/-DataLens-1E90FF?logo=datalens&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-1E90FF?logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-1E90FF?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-1E90FF?logo=gnu-bash&logoColor=white)
 
