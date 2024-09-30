@@ -13,6 +13,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-1E90FF?logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1E90FF?logo=postgresql&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/-ClickHouse-1E90FF?logo=clickhouse&logoColor=white)
+![Greenplum](https://img.shields.io/badge/-Greenplum-1E90FF?logo=greenplum&logoColor=white)
+![ArenaData](https://img.shields.io/badge/-ArenaData-1E90FF?logo=arenaData&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-1E90FF?logo=dbeaver&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-1E90FF?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-1E90FF?logo=git&logoColor=white)
