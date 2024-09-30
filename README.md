@@ -37,8 +37,9 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
 
-<h2> Courses: </h2><br>
-
+<details>
+<summary>Courses:</summary>
+ 
 - karpov.courses "[**Основы Python**](https://karpov.courses/pythonzero?_gl=1*18vd29z*_ga*MTM4MDQ4MDA1Ni4xNzExNDk0MjYx*_ga_DZP7KEXCQQ*MTcyMjc5MzU1OS42NS4xLjE3MjI3OTM1NjEuNTguMC4w)"
 - Stepik "[**Поколение Python**](https://stepik.org/course/68343/promo?search=4854919001)"
 - karpov.courses "[**Симулятор SQL**](https://karpov.courses/simulator-sql?_gl=1*27n03s*_ga*MTM4MDQ4MDA1Ni4xNzExNDk0MjYx*_ga_DZP7KEXCQQ*MTcyMjU5MjI4NS41OC4xLjE3MjI1OTI3ODUuNDguMC4w)"
@@ -46,3 +47,4 @@
 - Stepik "[**Data Engineer**](https://stepik.org/course/137235/promo?search=4853546789)"
 - Поступашки **"Инженер данных"**
 - VK education "[**Системы обработки и анализа больших массивов данных**](https://education.vk.company/program/408)"
+</details>
