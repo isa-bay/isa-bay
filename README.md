@@ -29,10 +29,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-1E90FF?logo=linux&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-1E90FF?logo=gnu-bash&logoColor=white)
 
-
+https://docs.google.com/document/d/1gJY6brXLQfd4gKO2K-StuMsUUXxVONcFJSO6bnEOsnQ/edit?usp=sharing)
 - 🌱 Сейчас я изучаю инструменты Spark и Greenplum
 - ⚡ В свое свободное время стараюсь решать задачки на LeetCode
-- 💬 Узнать о моём опыте [**CV**](https://docs.google.com/document/d/1gJY6brXLQfd4gKO2K-StuMsUUXxVONcFJSO6bnEOsnQ/edit?usp=sharing)
+- 💬 Узнать о моём опыте [**CV**](https://hh.ru/resume/d7728897ff0cc0ee4c0039ed1f3461796d5a62)
 - 📫 Связаться со мной [**Telegram**](https://t.me/vinturis)
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/isa-bay?theme=dark)
